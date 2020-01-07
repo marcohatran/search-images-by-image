@@ -3,18 +3,13 @@ Searching technique is always the popular topic for a lot of researchers. For so
 
 
 # CNN - VGG16
-CNN (Convolutional Neural Network) is the special model for handling images data. It contains 2 parts: feature extraction and classification.
+CNN (Convolutional Neural Network) is the special model for handling images data. It contains 2 parts: feature extraction and classification. By using feature extraction layer of CNN-VGG16 and skipping classification layer, the image can be extracted all valuable information.
 
 <p align="center">
   <img src="read_pic/cnn.jpeg" alt="cnn image"/>
 </p>
 
- VGG16 is the one of special architecture of CNNs. 
-<p align="center">
-  <img src="read_pic/vgg16.png" alt="vgg16 image"/>
-</p>
-
-
+ 
 
 # Cosine similarity
 One of the best algorithm for comparing the similarity. Cosine similarity is a good choice to estimate the distance between 2 input vectors in the short time
