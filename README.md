@@ -12,7 +12,7 @@ CNN (Convolutional Neural Network) consists of feature extraction and classifica
  
 
 # Cosine similarity
-One of the best algorithm for comparing the similarity, cosine similarity show its power for estimating the distance between 2 input vectors in a short time
+One of the best algorithm for comparing the similarity, cosine similarity shows its power for estimating the distance between 2 input vectors in a short time
 <p align="center">
   <img src="read_pic/cosin.png" alt="cosin image"/>
 </p>
